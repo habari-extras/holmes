@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Holmes</name>
+	
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	
+	<author url="http://habariproject.org/">The Habari Community</author>
+	<author url="http://morgante.net/">Morgante Pell</author>
+	
+	<version>0.1</version>
+	<url>http://lab.morgante.net/holmes</url>
+	
+	<description><![CDATA[Allows the creation and management of scopes.]]></description>
+	<copyright>2012</copyright>
+	
+	<help>
+		<value><![CDATA[<p>After activating this plugin, a new menu item will be available for managing scopes.]]></value>
+	</help>
+</pluggable> 
