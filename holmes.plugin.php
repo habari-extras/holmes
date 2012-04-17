@@ -133,7 +133,7 @@ class Holmes extends Plugin
 	 **/
 	public function filter_get_blocks( $blocks, $area, $scope, $theme )
 	{
-		Utils::debug( $blocks, $area, $scope );
+		// Utils::debug( $blocks, $area, $scope );
 		
 		return $blocks;
 	}
